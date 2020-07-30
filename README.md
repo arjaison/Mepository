@@ -1,0 +1,2 @@
+# Mepository
+### This Android application was developed as a part of the Smart Healthcare Hackathon conducted at Daksh, a Techno-management festival. It's main aim was to digitize medical reports of school students using a QR code supported mep-card. Healthcare workers can update medical records of the children using the app and can also give updates. Remedy for common health problems are also listed for convenience. It also provides a way to assess the mental health of the children through an [Emotional Inteligence test](http://emotional-intelligence-test.herokuapp.com/).
